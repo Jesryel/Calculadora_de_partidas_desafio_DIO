@@ -1,1 +1,1 @@
-# Calculadora_de_partidas_desafio_DIO
+# Calculadora de partidas do desafio de logica de programaçao
